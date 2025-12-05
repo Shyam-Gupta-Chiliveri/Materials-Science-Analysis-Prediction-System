@@ -1,6 +1,6 @@
 # 🔬 Materials Science Analysis & Prediction System
 
-## A Comprehensive Data Science & Machine Learning Project
+## A Comprehensive Data Science & AI Project
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
